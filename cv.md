@@ -3,6 +3,7 @@
 Contact:
 **phone1:** +995-568-61-62-34
 **phone2:** +995-598-70-62-40
+**G-mail:** [lukajokhadze97@gmail.com](mailto:lukajokhadze97@gmail.com)
 
 ## About me:
 
