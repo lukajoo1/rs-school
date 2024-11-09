@@ -214,3 +214,8 @@ i am student of computer science, also i had done a some georgian Html/Css cours
 ## Education:
 
 Student of tbilisi state university also i am studying a course of rs-school and have done several courses.
+
+## Languages:
+
+- Georgian
+- English
